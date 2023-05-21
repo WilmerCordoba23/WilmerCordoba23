@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en Gestión de Clientes GC SAS!<br>🤝 Estoy buscando ayuda con la creacion de una page en angular sobre pokemon, una pokedex.<br>🌱 Actualmente estoy aprendiendo nuevas tecnologias.
+🕹 Tengo 20 años, soy estudiante de ingeniaria de sistemas.<br>🔭 Actualmente estoy trabajando en Gestión de Clientes GC SAS!<br>🤝 Estoy buscando ayuda con la creacion de una page en angular sobre pokemon, una pokedex.<br>🌱 Actualmente estoy aprendiendo nuevas tecnologias.
 
 
 ## 🌐 Socials:
