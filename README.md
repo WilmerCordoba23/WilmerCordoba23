@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WilmerCordoba23&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WilmerCordoba23&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WilmerCordoba23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
@@ -22,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=WilmerCordoba23&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://www.pinterest.com.mx/amp/pin/763571311800850836/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WilmerCordoba23&icon=0&color=1)](https://visitcount.itsvg.in)
