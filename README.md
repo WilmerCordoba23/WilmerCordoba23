@@ -20,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=WilmerCordoba23&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://www.pinterest.com.mx/amp/pin/763571311800850836/" width="512px"/>
+<img src="https://i.pinimg.com/564x/bd/68/af/bd68af256a4c6fd0ada2f60183e88f39.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WilmerCordoba23&icon=0&color=1)](https://visitcount.itsvg.in)
