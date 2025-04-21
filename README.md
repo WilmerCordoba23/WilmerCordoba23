@@ -1,5 +1,13 @@
 # 💫 About Me:
-🕹 Soy estudiante de ingeniera de sistemas y de programador full stack, me gusta la música, aprender, la tecnología y soy un apasionado por la programación.<br>📚Tengo 20 años, soy estudiante de ingeniaria de sistemas.<br>🔭 Actualmente estoy trabajando en Gestión de Clientes GC SAS!<br>🤝 Estoy buscando ayuda con la creacion de una page en angular sobre pokemon, una pokedex.<br>🌱 Actualmente estoy aprendiendo nuevas tecnologias.
+🎓 ¡Hola! Soy Wilmer, Ingeniero de Sistemas graduado de la Fundación Universitaria Claretiana (Fucla). Apasionado por la tecnología, la programación y la creación de soluciones que realmente marquen la diferencia.<br>
+
+💻 Me especializo en desarrollo web full stack, con experiencia en tecnologías como Node.js, Express, Angular, TypeScript, HTML, JavaScript, CSS, C#, y MySQL. Actualmente, me desempeño como desarrollador en Gestión de Clientes GC S.A.S., donde contribuyo al éxito de los proyectos mediante el diseño e implementación de soluciones eficientes, escalables e innovadoras.<br>
+
+🚀 He trabajado en el desarrollo de plataformas e-commerce bajo el patrón MVC, integrando servicios externos a través del consumo de APIs REST. También tengo experiencia en la programación de endpoints y la gestión de bases de datos relacionales, así como en el diseño de interfaces centradas en el usuario.<br>
+
+🔧 Me encanta seguir aprendiendo, colaborar en equipos multidisciplinarios y enfrentar nuevos desafíos que me permitan crecer tanto profesional como personalmente.<br>
+
+Si buscas a alguien que combine habilidades técnicas, compromiso y buena energía para aportar valor real a tu proyecto o empresa… ¡conversemos!<br>
 
 
 ## 🌐 Socials:
