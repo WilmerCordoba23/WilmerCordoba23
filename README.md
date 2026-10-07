@@ -1,36 +1,80 @@
-# 💫 About Me:
-🎓 ¡Hola! Soy Wilmer, Ingeniero de Sistemas graduado de la Fundación Universitaria Claretiana (Fucla). Apasionado por la tecnología, la programación y la creación de soluciones que realmente marquen la diferencia.<br>
+# Hola, soy Wilmer Córdoba 👋
 
-💻 Me especializo en desarrollo web full stack, con experiencia en tecnologías como Node.js, Express, Angular, TypeScript, HTML, JavaScript, CSS, C#, y MySQL. Actualmente, me desempeño como desarrollador en Gestión de Clientes GC S.A.S., donde contribuyo al éxito de los proyectos mediante el diseño e implementación de soluciones eficientes, escalables e innovadoras.<br>
+**Data Engineer · Ingeniero de Sistemas** — Quibdó, Colombia
 
-🚀 He trabajado en el desarrollo de plataformas e-commerce bajo el patrón MVC, integrando servicios externos a través del consumo de APIs REST. También tengo experiencia en la programación de endpoints y la gestión de bases de datos relacionales, así como en el diseño de interfaces centradas en el usuario.<br>
+Diseño e implemento pipelines, arquitecturas Lakehouse y modelos de datos con **Python, PySpark y SQL** sobre **Azure, Databricks y Microsoft Fabric**, migrando plataformas legadas hacia entornos cloud gobernados. Vengo del desarrollo **full stack**, así que entiendo tanto la aplicación que genera los datos como la arquitectura que los prepara para analítica.
 
-🔧 Me encanta seguir aprendiendo, colaborar en equipos multidisciplinarios y enfrentar nuevos desafíos que me permitan crecer tanto profesional como personalmente.<br>
-
-Si buscas a alguien que combine habilidades técnicas, compromiso y buena energía para aportar valor real a tu proyecto o empresa… ¡conversemos!<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wilmer-alexander-c%C3%B3rdoba-arroyo) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WilmerCordoba23&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WilmerCordoba23&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WilmerCordoba23&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WilmerCordoba23&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://i.pinimg.com/564x/bd/68/af/bd68af256a4c6fd0ada2f60183e88f39.jpg" width="512px"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e9f8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wilmercordoba.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilmer-alexander-c%C3%B3rdoba-arroyo)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:alexandercordoba2003@hotmail.com)
+[![CV](https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://wilmercordoba.github.io/Portfolio/assets/docs/cv-wilmer-cordoba.pdf)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WilmerCordoba23&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 Qué hago
+
+- **Ingeniero de datos en DataKnow** (ene 2026 – actualidad): procesos ETL/ELT orquestados en Azure Data Factory, Databricks y Microsoft Fabric; arquitecturas Medallion sobre ADLS Gen2 y Delta Lake con gobierno en Unity Catalog; modelado dimensional, controles de calidad y conciliación.
+- **Analista y Desarrollador Full Stack en Gestión de Clientes GC S.A.S.** (mar 2023 – ene 2026): aplicaciones web y de escritorio con Angular, C#/.NET, PHP, MySQL y MongoDB, gestionadas en Azure DevOps.
+
+### Algunos resultados
+
+- Migración de una plataforma analítica de **1.715 objetos desde 22 bases** de SQL Server a un Lakehouse en Databricks.
+- Data Lake para autorizaciones en salud: **13 dimensiones y 1 tabla de hechos** migradas a Bronze/Silver/Gold, validadas contra el cubo original.
+- Modernización de datos corporativos: **~100 tablas** desde SAP, SQL Server y SharePoint y **7 modelos semánticos** reconstruidos.
+- Migración de ETL legado a Microsoft Fabric: **15 módulos de negocio** con validación de paridad contra el origen.
+
+## 🛠️ Stack
+
+**Datos y cloud**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square&logo=microsoft&logoColor=white)
+![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Software**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Entrega**
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+
+## 🎓 Formación y certificaciones
+
+- **Ingeniería de Sistemas** — Fundación Universitaria Claretiana (2020 – 2025)
+- **DP-900 Microsoft Azure Data Fundamentals** (oct 2026)
+- **Azure Fundamentals** — Microsoft (mar 2026)
+- **Databricks Fundamentals** — Databricks (ene 2026)
+
+## 📂 Proyectos públicos
+
+| Proyecto | Stack | Demo |
+|---|---|---|
+| [Spotify Demo](https://github.com/WilmerCordoba23/Spotify-Demo) | HTML · CSS · JavaScript | [Ver](https://wilmercordoba23.github.io/Spotify-Demo/) |
+| [Poke App](https://github.com/WilmerCordoba23/Poke-App) | React | [Ver](https://poke-app-ten-mu.vercel.app) |
+| [E-Books Dashboard](https://github.com/WilmerCordoba23/grupo_1_E-Books-Dashboard) | React · Express | [Ver](https://grupo-1-e-books-jz6z.vercel.app) |
+| [E-Books](https://github.com/WilmerCordoba23/grupo_1_E-Books) | Node.js · Express · Sequelize · EJS | — |
+| [Electrónicos Chocó (MySQL)](https://github.com/WilmerCordoba23/Electronicoschoco-codeigniter-mysql) | PHP · CodeIgniter | — |
+| [Compilador en Python](https://github.com/WilmerCordoba23/compilador-en-python) | Python · Jupyter | — |
+
+> Mi trabajo actual de ingeniería de datos es para clientes y no es público; el detalle está en el [portfolio](https://wilmercordoba.github.io/Portfolio/).
